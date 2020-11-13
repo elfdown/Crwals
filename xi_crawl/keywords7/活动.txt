@@ -1,0 +1,154 @@
+these are the keywords in type:"活动"
+
+
+there are 0 articles in total
+
+
+2012-01-01
+
+
+keywords:艾滋病　　　　　weight:0.17326743261746747
+keywords:社会主义　　　　weight:0.15083748317751478
+keywords:特色　　　　　　weight:0.13950272200302957
+keywords:中国　　　　　　weight:0.08956570078875739
+keywords:人民　　　　　　weight:0.07397912095143196
+keywords:坚持　　　　　　weight:0.07225211682988758
+keywords:建设　　　　　　weight:0.06976304848728995
+keywords:总书记　　　　　weight:0.05781142635337279
+keywords:精神　　　　　　weight:0.053204385812260356
+keywords:防治　　　　　　weight:0.05317533290605917
+there are 7 articles in total
+
+
+2013-01-01
+
+
+keywords:发展　　　　　　weight:0.07964653878319798
+keywords:社会主义　　　　weight:0.06314689467199339
+keywords:总书记　　　　　weight:0.06063753811161843
+keywords:中国　　　　　　weight:0.05528815709074024
+keywords:坚持　　　　　　weight:0.05046001331426333
+keywords:主席　　　　　　weight:0.04827913542079464
+keywords:建设　　　　　　weight:0.041995177494291824
+keywords:同志　　　　　　weight:0.040530039531253156
+keywords:特色　　　　　　weight:0.039867528760733115
+keywords:创新　　　　　　weight:0.03457599784115019
+there are 43 articles in total
+
+
+2014-01-01
+
+
+keywords:主席　　　　　　weight:0.07765087916567251
+keywords:中国　　　　　　weight:0.05942178663052826
+keywords:澳门　　　　　　weight:0.05691150180685285
+keywords:人民　　　　　　weight:0.05581542161684978
+keywords:出席　　　　　　weight:0.05520903618485136
+keywords:代表　　　　　　weight:0.05444810284316954
+keywords:发展　　　　　　weight:0.05416050893170861
+keywords:国家　　　　　　weight:0.049889188573022436
+keywords:合作　　　　　　weight:0.03871060070876916
+keywords:总书记　　　　　weight:0.03360676821417468
+there are 93 articles in total
+
+
+2015-01-01
+
+
+keywords:发展　　　　　　weight:0.0767169801450503
+keywords:主席　　　　　　weight:0.07018558512391253
+keywords:人民　　　　　　weight:0.056281771071294985
+keywords:同志　　　　　　weight:0.055773414453683036
+keywords:国家　　　　　　weight:0.05454746343530884
+keywords:出席　　　　　　weight:0.052629050274122645
+keywords:中国　　　　　　weight:0.05188016972891737
+keywords:全面　　　　　　weight:0.05112372254221742
+keywords:代表　　　　　　weight:0.04693338023933611
+keywords:建设　　　　　　weight:0.045387652562515465
+there are 49 articles in total
+
+
+2016-01-01
+
+
+keywords:主席　　　　　　weight:0.0839580012139364
+keywords:发展　　　　　　weight:0.059433671601098664
+keywords:中国　　　　　　weight:0.052515863013979036
+keywords:总书记　　　　　weight:0.050021752774737985
+keywords:联勤　　　　　　weight:0.04699443339837369
+keywords:代表　　　　　　weight:0.04696292320411203
+keywords:人民　　　　　　weight:0.042171931133860495
+keywords:建设　　　　　　weight:0.04189900954504084
+keywords:出席　　　　　　weight:0.04186442187623997
+keywords:国家　　　　　　weight:0.03961409604090495
+there are 50 articles in total
+
+
+2017-01-01
+
+
+keywords:主席　　　　　　weight:0.09793118852743313
+keywords:金砖　　　　　　weight:0.09550154362643296
+keywords:香港　　　　　　weight:0.09076904628506396
+keywords:国家　　　　　　weight:0.07576852877658083
+keywords:合作　　　　　　weight:0.07567218200189622
+keywords:发展　　　　　　weight:0.058802357616474496
+keywords:出席　　　　　　weight:0.04772265991855679
+keywords:中国　　　　　　weight:0.047613616603613004
+keywords:领导人　　　　　weight:0.04648304244631999
+keywords:建设　　　　　　weight:0.04570509296143546
+there are 63 articles in total
+
+
+2018-01-01
+
+
+keywords:中国　　　　　　weight:0.07848777869731809
+keywords:发展　　　　　　weight:0.057370275118639985
+keywords:合作　　　　　　weight:0.055812902753134754
+keywords:主席　　　　　　weight:0.05564158491046186
+keywords:人民　　　　　　weight:0.05355395594843037
+keywords:国家　　　　　　weight:0.052761503341762196
+keywords:领导人　　　　　weight:0.043761677490807886
+keywords:中非　　　　　　weight:0.04303645454232135
+keywords:建设　　　　　　weight:0.03744532181480167
+keywords:时代　　　　　　weight:0.03589704316597964
+there are 60 articles in total
+
+
+2019-01-01
+
+
+keywords:主席　　　　　　weight:0.0761341531982543
+keywords:中国　　　　　　weight:0.07594515042765351
+keywords:国家　　　　　　weight:0.0577541399314848
+keywords:人民　　　　　　weight:0.051430930812826535
+keywords:发展　　　　　　weight:0.0497613620136989
+keywords:出席　　　　　　weight:0.04664235738863691
+keywords:澳门　　　　　　weight:0.045494192211433984
+keywords:代表　　　　　　weight:0.034517661463789526
+keywords:世界　　　　　　weight:0.032799236788017994
+keywords:国际　　　　　　weight:0.03243451407847214
+there are 130 articles in total
+
+
+2020-01-01
+
+
+keywords:小康社会　　　　weight:0.07411318498771503
+keywords:全面　　　　　　weight:0.07045809859365183
+keywords:主席　　　　　　weight:0.060512044322617795
+keywords:植树　　　　　　weight:0.05359746599895288
+keywords:国家　　　　　　weight:0.050865797806073296
+keywords:同胞　　　　　　weight:0.050605086642696334
+keywords:人民　　　　　　weight:0.04870384349597981
+keywords:中国　　　　　　weight:0.04868167147583396
+keywords:建成　　　　　　weight:0.04856365065455498
+keywords:脱贫　　　　　　weight:0.048135832343062825
+there are 18 articles in total
+
+
+2021-01-01
+
+
+there are 513 articles in total in this type

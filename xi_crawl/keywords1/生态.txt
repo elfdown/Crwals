@@ -1,0 +1,124 @@
+these are the keywords in type:"生态"
+
+
+there are 0 articles in total
+
+
+2012-01-01
+
+
+there are 0 articles in total
+
+
+2013-01-01
+
+
+keywords:生态　　　　　　weight:0.5106139766751725
+keywords:建设　　　　　　weight:0.27103345274372415
+keywords:绿色　　　　　　weight:0.23525296801448273
+keywords:贵阳　　　　　　weight:0.18158717943248276
+keywords:国际　　　　　　weight:0.15424868279344828
+keywords:节约资源　　　　weight:0.15265468010896552
+keywords:保护环境　　　　weight:0.1354915890768276
+keywords:论坛　　　　　　weight:0.13340059287951725
+keywords:共建　　　　　　weight:0.12906734992703447
+keywords:家园　　　　　　weight:0.12018333580882759
+there are 1 articles in total
+
+
+2014-01-01
+
+
+keywords:中国　　　　　　weight:0.18738573713851442
+keywords:人民　　　　　　weight:0.17913903371148557
+keywords:发展　　　　　　weight:0.12785650386718017
+keywords:道路　　　　　　weight:0.11580993829749656
+keywords:南极　　　　　　weight:0.11326342453727647
+keywords:坚持　　　　　　weight:0.10397452064928474
+keywords:同胞　　　　　　weight:0.08405963631166437
+keywords:中华儿女　　　　weight:0.07653431175859698
+keywords:极地　　　　　　weight:0.07283772079840439
+keywords:社会主义　　　　weight:0.0701280183136176
+there are 2 articles in total
+
+
+2015-01-01
+
+
+keywords:气候变化　　　　weight:0.2812249696072
+keywords:应对　　　　　　weight:0.18435074759913042
+keywords:巴黎　　　　　　weight:0.15903287216855652
+keywords:应该　　　　　　weight:0.14663135088125218
+keywords:全球　　　　　　weight:0.11935417452462607
+keywords:协议　　　　　　weight:0.10346905209565217
+keywords:发展　　　　　　weight:0.09948005705572174
+keywords:女士们　　　　　weight:0.09324020714434783
+keywords:尊敬　　　　　　weight:0.08274173021415653
+keywords:绿色　　　　　　weight:0.07118959379916522
+there are 1 articles in total
+
+
+2016-01-01
+
+
+there are 0 articles in total
+
+
+2017-01-01
+
+
+keywords:社会主义　　　　weight:0.09922824898260248
+keywords:发展　　　　　　weight:0.09201786736118209
+keywords:人民　　　　　　weight:0.09049206105858701
+keywords:建设　　　　　　weight:0.08585525046199556
+keywords:坚持　　　　　　weight:0.08437631510798327
+keywords:中国　　　　　　weight:0.0625280726510645
+keywords:特色　　　　　　weight:0.057574076473081236
+keywords:全面　　　　　　weight:0.054208939298384703
+keywords:推进　　　　　　weight:0.05286999800765173
+keywords:加强　　　　　　weight:0.04710807535809448
+there are 5 articles in total
+
+
+2018-01-01
+
+
+keywords:海南　　　　　　weight:0.1738116295346332
+keywords:人民　　　　　　weight:0.15384908489383614
+keywords:经济特区　　　　weight:0.1144232660337885
+keywords:中国　　　　　　weight:0.09421321921012385
+keywords:发展　　　　　　weight:0.09195942476520799
+keywords:建设　　　　　　weight:0.08268069563097491
+keywords:社会主义　　　　weight:0.08095120564306128
+keywords:特色　　　　　　weight:0.06239007097097492
+keywords:坚持　　　　　　weight:0.06093394056469673
+keywords:开放　　　　　　weight:0.0565507192085297
+there are 2 articles in total
+
+
+2019-01-01
+
+
+keywords:生态　　　　　　weight:0.2477199352760162
+keywords:发展　　　　　　weight:0.08395309522022444
+keywords:保护　　　　　　weight:0.08190509390524939
+keywords:黄河　　　　　　weight:0.07159515890995428
+keywords:建设　　　　　　weight:0.06227376583328763
+keywords:治理　　　　　　weight:0.05589076380773068
+keywords:环境保护　　　　weight:0.05442161230636742
+keywords:黄河流域　　　　weight:0.049267406100532006
+keywords:绿色　　　　　　weight:0.048204369589002496
+keywords:污染　　　　　　weight:0.048087644635876975
+there are 5 articles in total
+
+
+2020-01-01
+
+
+there are 0 articles in total
+
+
+2021-01-01
+
+
+there are 16 articles in total in this type

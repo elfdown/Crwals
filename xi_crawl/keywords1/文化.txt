@@ -1,0 +1,144 @@
+these are the keywords in type:"文化"
+
+
+there are 0 articles in total
+
+
+2012-01-01
+
+
+there are 0 articles in total
+
+
+2013-01-01
+
+
+keywords:中国　　　　　　weight:0.1095821024220654
+keywords:人民　　　　　　weight:0.10854490414375817
+keywords:学习　　　　　　weight:0.07907844616302662
+keywords:同志　　　　　　weight:0.07465286995029659
+keywords:社会主义　　　　weight:0.07366375033961976
+keywords:留学人员　　　　weight:0.06652254541157414
+keywords:发展　　　　　　weight:0.06252964612936882
+keywords:历史　　　　　　weight:0.06090982568274525
+keywords:实现　　　　　　weight:0.0526354434171346
+keywords:坚持　　　　　　weight:0.051292069467069205
+there are 15 articles in total
+
+
+2014-01-01
+
+
+keywords:人民　　　　　　weight:0.13277370885206466
+keywords:中国　　　　　　weight:0.1310147337880568
+keywords:老师　　　　　　weight:0.10248060945336983
+keywords:民族　　　　　　weight:0.07691258865187821
+keywords:学生　　　　　　weight:0.06703783166106056
+keywords:发展　　　　　　weight:0.06176556955087923
+keywords:文化　　　　　　weight:0.054842388033063634
+keywords:价值观　　　　　weight:0.05423355939824154
+keywords:教师　　　　　　weight:0.05291379722218782
+keywords:历史　　　　　　weight:0.05039471855655149
+there are 7 articles in total
+
+
+2015-01-01
+
+
+keywords:文艺　　　　　　weight:0.22013601044504666
+keywords:人民　　　　　　weight:0.1520799947930749
+keywords:网络空间　　　　weight:0.07647098186815028
+keywords:互联网　　　　　weight:0.07328102140092606
+keywords:发展　　　　　　weight:0.06758317767043791
+keywords:中国　　　　　　weight:0.06519714328772434
+keywords:文化　　　　　　weight:0.06332359918620722
+keywords:精神　　　　　　weight:0.0591690316014549
+keywords:文艺工作者　　　weight:0.05878952907951663
+keywords:世界　　　　　　weight:0.047030108459117016
+there are 7 articles in total
+
+
+2016-01-01
+
+
+keywords:创新　　　　　　weight:0.09836489703415295
+keywords:哲学　　　　　　weight:0.08595718281328364
+keywords:科技　　　　　　weight:0.08468937115309777
+keywords:发展　　　　　　weight:0.0778692665875121
+keywords:马克思主义　　　weight:0.061058652975868336
+keywords:人民　　　　　　weight:0.0569852885128064
+keywords:文化　　　　　　weight:0.05123510571135721
+keywords:社会　　　　　　weight:0.0447648284103301
+keywords:中国　　　　　　weight:0.04307997492149274
+keywords:文艺　　　　　　weight:0.04034160278786544
+there are 10 articles in total
+
+
+2017-01-01
+
+
+keywords:社会主义　　　　weight:0.0957036822894686
+keywords:发展　　　　　　weight:0.09360969943393146
+keywords:人民　　　　　　weight:0.09026620697529843
+keywords:坚持　　　　　　weight:0.08340120257317964
+keywords:建设　　　　　　weight:0.0770826392905025
+keywords:中国　　　　　　weight:0.06411345312525991
+keywords:特色　　　　　　weight:0.05736887545684636
+keywords:全面　　　　　　weight:0.053598269554144214
+keywords:推进　　　　　　weight:0.05081172341815941
+keywords:制度　　　　　　weight:0.045760191749722755
+there are 9 articles in total
+
+
+2018-01-01
+
+
+keywords:人民　　　　　　weight:0.17838911732565219
+keywords:社会主义　　　　weight:0.12260260993170449
+keywords:中国　　　　　　weight:0.11648021110657945
+keywords:发展　　　　　　weight:0.07840657151792228
+keywords:奋斗　　　　　　weight:0.07290015196318583
+keywords:美育　　　　　　weight:0.06323338980069257
+keywords:坚持　　　　　　weight:0.06264259455816854
+keywords:精神　　　　　　weight:0.06054327473634475
+keywords:建设者　　　　　weight:0.058478712197075795
+keywords:时代　　　　　　weight:0.05720312344944979
+there are 4 articles in total
+
+
+2019-01-01
+
+
+keywords:中国　　　　　　weight:0.13261363719797398
+keywords:历史　　　　　　weight:0.12077866664664615
+keywords:文化　　　　　　weight:0.11843043376469542
+keywords:互鉴　　　　　　weight:0.0981911088533881
+keywords:世界　　　　　　weight:0.07772468483560575
+keywords:发展　　　　　　weight:0.06851595305429158
+keywords:交流　　　　　　weight:0.06808155640612366
+keywords:自信　　　　　　weight:0.06749300707429158
+keywords:人民　　　　　　weight:0.05704983545878166
+keywords:精神　　　　　　weight:0.05641509994580881
+there are 8 articles in total
+
+
+2020-01-01
+
+
+keywords:中国　　　　　　weight:0.15933266771894736
+keywords:脱贫　　　　　　weight:0.12083808314062078
+keywords:留学生　　　　　weight:0.10765657954931172
+keywords:世界　　　　　　weight:0.08841152642854251
+keywords:大家　　　　　　weight:0.06574223359068826
+keywords:人类　　　　　　weight:0.060789901103373824
+keywords:共同体　　　　　weight:0.056957436827462876
+keywords:人民　　　　　　weight:0.056241436980620785
+keywords:疫情　　　　　　weight:0.054565095277665315
+keywords:外国　　　　　　weight:0.051554525847206475
+there are 2 articles in total
+
+
+2021-01-01
+
+
+there are 62 articles in total in this type

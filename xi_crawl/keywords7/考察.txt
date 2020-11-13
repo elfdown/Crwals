@@ -1,0 +1,154 @@
+these are the keywords in type:"考察"
+
+
+there are 0 articles in total
+
+
+2012-01-01
+
+
+keywords:考察　　　　　　weight:0.10199416215459431
+keywords:总书记　　　　　weight:0.0963360905116633
+keywords:建设　　　　　　weight:0.07473348880801217
+keywords:强军　　　　　　weight:0.0712177671882353
+keywords:看望　　　　　　weight:0.06963035465308318
+keywords:实现　　　　　　weight:0.06956596760309668
+keywords:关镇　　　　　　weight:0.06665570436206897
+keywords:主席　　　　　　weight:0.0664241406070115
+keywords:强调　　　　　　weight:0.060353640590574714
+keywords:牢记　　　　　　weight:0.05977200751688979
+there are 11 articles in total
+
+
+2013-01-01
+
+
+keywords:总书记　　　　　weight:0.1478813608249415
+keywords:来到　　　　　　weight:0.049622671993159125
+keywords:建设　　　　　　weight:0.049343706443647765
+keywords:发展　　　　　　weight:0.045629930445159735
+keywords:群众　　　　　　weight:0.04367553525685371
+keywords:主席　　　　　　weight:0.04342576641980175
+keywords:工作　　　　　　weight:0.040468942387253605
+keywords:考察　　　　　　weight:0.03854091043203421
+keywords:创新　　　　　　weight:0.035118133880250736
+keywords:情况　　　　　　weight:0.03283631049233177
+there are 92 articles in total
+
+
+2014-01-01
+
+
+keywords:总书记　　　　　weight:0.15641089788541626
+keywords:主席　　　　　　weight:0.0479201748581937
+keywords:群众　　　　　　weight:0.045330952687018616
+keywords:建设　　　　　　weight:0.04247519786281288
+keywords:新疆　　　　　　weight:0.04215468984226813
+keywords:发展　　　　　　weight:0.04156683781017381
+keywords:教育　　　　　　weight:0.04088670549344586
+keywords:工作　　　　　　weight:0.04030720589794759
+keywords:来到　　　　　　weight:0.038779107024016296
+keywords:考察　　　　　　weight:0.03182378161571576
+there are 104 articles in total
+
+
+2015-01-01
+
+
+keywords:总书记　　　　　weight:0.11844818669876164
+keywords:发展　　　　　　weight:0.06496845218770904
+keywords:舟山　　　　　　weight:0.057250628615239864
+keywords:建设　　　　　　weight:0.052426178815391904
+keywords:浙江　　　　　　weight:0.049913364652943375
+keywords:村民　　　　　　weight:0.04731375860449685
+keywords:来到　　　　　　weight:0.04446275605306016
+keywords:群众　　　　　　weight:0.04366784009584697
+keywords:考察　　　　　　weight:0.0436235320039995
+keywords:乌镇　　　　　　weight:0.03778871883065089
+there are 48 articles in total
+
+
+2016-01-01
+
+
+keywords:总书记　　　　　weight:0.1601587386434143
+keywords:发展　　　　　　weight:0.06270317493377812
+keywords:建设　　　　　　weight:0.05085139557827155
+keywords:生态　　　　　　weight:0.04099416495454261
+keywords:脱贫　　　　　　weight:0.03695206806817525
+keywords:主席　　　　　　weight:0.0367665088063089
+keywords:工作　　　　　　weight:0.03512159227563966
+keywords:国家　　　　　　weight:0.03315590272751083
+keywords:来到　　　　　　weight:0.03259787095410138
+keywords:创新　　　　　　weight:0.03099576196556847
+there are 57 articles in total
+
+
+2017-01-01
+
+
+keywords:总书记　　　　　weight:0.1208974467397646
+keywords:主席　　　　　　weight:0.06629548836805274
+keywords:建设　　　　　　weight:0.061967136376088604
+keywords:考察　　　　　　weight:0.04973098054285459
+keywords:发展　　　　　　weight:0.048114943045750896
+keywords:香港　　　　　　weight:0.043873739009654356
+keywords:工作　　　　　　weight:0.04299584349046981
+keywords:脱贫　　　　　　weight:0.03890961072521851
+keywords:来到　　　　　　weight:0.038247577693073596
+keywords:强调　　　　　　weight:0.03775206193117998
+there are 47 articles in total
+
+
+2018-01-01
+
+
+keywords:总书记　　　　　weight:0.10668143254003942
+keywords:发展　　　　　　weight:0.07475687700170222
+keywords:建设　　　　　　weight:0.05886167333811843
+keywords:创新　　　　　　weight:0.05059085757495362
+keywords:主席　　　　　　weight:0.04154589684997913
+keywords:考察　　　　　　weight:0.03920150232340214
+keywords:察看　　　　　　weight:0.03900508343136054
+keywords:情况　　　　　　weight:0.03794735260691288
+keywords:强调　　　　　　weight:0.037618082119553184
+keywords:社区　　　　　　weight:0.03668702805831633
+there are 56 articles in total
+
+
+2019-01-01
+
+
+keywords:总书记　　　　　weight:0.12701573594394552
+keywords:发展　　　　　　weight:0.06064182955967148
+keywords:脱贫　　　　　　weight:0.04526939703624432
+keywords:京津冀　　　　　weight:0.04286808968818406
+keywords:建设　　　　　　weight:0.04115698349933719
+keywords:考察　　　　　　weight:0.038149135815521255
+keywords:教育　　　　　　weight:0.03773096182724309
+keywords:主席　　　　　　weight:0.03720629122238382
+keywords:来到　　　　　　weight:0.037119674356020226
+keywords:强调　　　　　　weight:0.036126852166431696
+there are 86 articles in total
+
+
+2020-01-01
+
+
+keywords:疫情　　　　　　weight:0.1453385541495805
+keywords:总书记　　　　　weight:0.12528797426636049
+keywords:防控　　　　　　weight:0.1181865549805714
+keywords:脱贫　　　　　　weight:0.06052715150989701
+keywords:发展　　　　　　weight:0.05174454238181081
+keywords:群众　　　　　　weight:0.04623005144789057
+keywords:社区　　　　　　weight:0.04535095081661339
+keywords:工作　　　　　　weight:0.04395087069219651
+keywords:生态　　　　　　weight:0.03827219157949422
+keywords:强调　　　　　　weight:0.03686762006515249
+there are 65 articles in total
+
+
+2021-01-01
+
+
+there are 566 articles in total in this type

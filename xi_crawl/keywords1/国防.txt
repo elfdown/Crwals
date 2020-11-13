@@ -1,0 +1,134 @@
+these are the keywords in type:"国防"
+
+
+there are 0 articles in total
+
+
+2012-01-01
+
+
+there are 0 articles in total
+
+
+2013-01-01
+
+
+there are 0 articles in total
+
+
+2014-01-01
+
+
+keywords:人民　　　　　　weight:0.20541652603824923
+keywords:中国　　　　　　weight:0.18144824304902207
+keywords:发展　　　　　　weight:0.13533367383369085
+keywords:道路　　　　　　weight:0.1327978314547003
+keywords:坚持　　　　　　weight:0.11922630364673502
+keywords:同胞　　　　　　weight:0.09639015078640378
+keywords:中华儿女　　　　weight:0.08776095370425868
+keywords:社会主义　　　　weight:0.08041493582649842
+keywords:实现　　　　　　weight:0.0737654617758675
+keywords:创造　　　　　　weight:0.0736329645814511
+there are 1 articles in total
+
+
+2015-01-01
+
+
+keywords:人民　　　　　　weight:0.27723095707201734
+keywords:中国　　　　　　weight:0.1798408328708911
+keywords:英雄　　　　　　weight:0.1766639447753094
+keywords:侵略者　　　　　weight:0.10288897269282178
+keywords:同志　　　　　　weight:0.09112177350059407
+keywords:边防　　　　　　weight:0.08413861653564357
+keywords:胜利　　　　　　weight:0.08359778054715346
+keywords:铭记　　　　　　weight:0.07682175438490099
+keywords:战争　　　　　　weight:0.06657541158341584
+keywords:精神　　　　　　weight:0.06259581591928218
+there are 3 articles in total
+
+
+2016-01-01
+
+
+keywords:国际　　　　　　weight:0.1604739659555157
+keywords:国家　　　　　　weight:0.13155425803814647
+keywords:恐怖主义　　　　weight:0.13064156381098654
+keywords:合作　　　　　　weight:0.11530073934203289
+keywords:中国　　　　　　weight:0.09502800361713006
+keywords:放射源　　　　　weight:0.08472143717862482
+keywords:峰会　　　　　　weight:0.07895987037109117
+keywords:核能　　　　　　weight:0.07472944527542599
+keywords:加强　　　　　　weight:0.07208612125816144
+keywords:微堆　　　　　　weight:0.07147843051061285
+there are 1 articles in total
+
+
+2017-01-01
+
+
+keywords:人民　　　　　　weight:0.10607415808797259
+keywords:社会主义　　　　weight:0.09670063318245227
+keywords:发展　　　　　　weight:0.08574555211530102
+keywords:坚持　　　　　　weight:0.08481367521587763
+keywords:建设　　　　　　weight:0.08223537029834362
+keywords:中国　　　　　　weight:0.06401382949765638
+keywords:特色　　　　　　weight:0.0576993637261674
+keywords:推进　　　　　　weight:0.0527955746978835
+keywords:全面　　　　　　weight:0.05120260919913363
+keywords:政治　　　　　　weight:0.046758045981450815
+there are 4 articles in total
+
+
+2018-01-01
+
+
+keywords:人民　　　　　　weight:0.37173363277037147
+keywords:中国　　　　　　weight:0.20122952755902246
+keywords:社会主义　　　　weight:0.11213285039736069
+keywords:发展　　　　　　weight:0.10134591589712609
+keywords:精神　　　　　　weight:0.0714137558831476
+keywords:梦想　　　　　　weight:0.06818247698120235
+keywords:奋斗　　　　　　weight:0.06442007563511241
+keywords:特色　　　　　　weight:0.06401640061505376
+keywords:国家　　　　　　weight:0.0625680608744477
+keywords:坚持　　　　　　weight:0.06252231307860215
+there are 1 articles in total
+
+
+2019-01-01
+
+
+keywords:脱贫　　　　　　weight:0.13990784313625
+keywords:战士　　　　　　weight:0.0837624913285
+keywords:中国　　　　　　weight:0.08041320573940625
+keywords:时代　　　　　　weight:0.077432769711
+keywords:主席　　　　　　weight:0.072236252910125
+keywords:世界　　　　　　weight:0.06824264696203125
+keywords:发展　　　　　　weight:0.05586038360062501
+keywords:强军　　　　　　weight:0.05485993628718751
+keywords:澳门　　　　　　weight:0.0525992544905625
+keywords:汗水　　　　　　weight:0.05244555822093751
+there are 2 articles in total
+
+
+2020-01-01
+
+
+keywords:疫情　　　　　　weight:0.12069473313656714
+keywords:脱贫　　　　　　weight:0.08909554189771145
+keywords:中国　　　　　　weight:0.06626970657365173
+keywords:连队　　　　　　weight:0.06250146046541294
+keywords:防控　　　　　　weight:0.05864703592080597
+keywords:世界　　　　　　weight:0.0564954052461791
+keywords:国际　　　　　　weight:0.05341148419116418
+keywords:打赢　　　　　　weight:0.04831354681567164
+keywords:新冠　　　　　　weight:0.047581164190646764
+keywords:强军　　　　　　weight:0.04658090775960199
+there are 3 articles in total
+
+
+2021-01-01
+
+
+there are 15 articles in total in this type

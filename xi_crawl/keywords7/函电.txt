@@ -1,0 +1,154 @@
+these are the keywords in type:"函电"
+
+
+there are 0 articles in total
+
+
+2012-01-01
+
+
+keywords:两岸关系　　　　weight:0.8061737228
+keywords:复电　　　　　　weight:0.6957305512924528
+keywords:发展　　　　　　weight:0.2698161924860377
+keywords:致电　　　　　　weight:0.23343929636915095
+keywords:主席　　　　　　weight:0.21807170689849056
+keywords:台海　　　　　　weight:0.20774162064339624
+keywords:成果　　　　　　weight:0.1899911458828302
+keywords:互信　　　　　　weight:0.18923540832264152
+keywords:表示　　　　　　weight:0.1845856917764151
+keywords:总书记　　　　　weight:0.15361841279433963
+there are 2 articles in total
+
+
+2013-01-01
+
+
+keywords:中国　　　　　　weight:0.10328327705363281
+keywords:合作　　　　　　weight:0.09867347128526964
+keywords:发展　　　　　　weight:0.09693271567476139
+keywords:主席　　　　　　weight:0.09655591184384893
+keywords:人民　　　　　　weight:0.07817953627308653
+keywords:国家　　　　　　weight:0.06523987983212406
+keywords:表示　　　　　　weight:0.061468235768746375
+keywords:交流　　　　　　weight:0.05699604980934868
+keywords:两国人民　　　　weight:0.05161989884173087
+keywords:世界　　　　　　weight:0.051125656873605804
+there are 88 articles in total
+
+
+2014-01-01
+
+
+keywords:发展　　　　　　weight:0.08865072800900985
+keywords:主席　　　　　　weight:0.08438172968246847
+keywords:合作　　　　　　weight:0.0833076233581951
+keywords:人民　　　　　　weight:0.08281690085197166
+keywords:表示　　　　　　weight:0.07708773110164853
+keywords:关系　　　　　　weight:0.07078357439099016
+keywords:国家　　　　　　weight:0.0660173725507655
+keywords:中非　　　　　　weight:0.06298600799924746
+keywords:两国人民　　　　weight:0.05943677079927424
+keywords:总统　　　　　　weight:0.0576526554333126
+there are 113 articles in total
+
+
+2015-01-01
+
+
+keywords:人民　　　　　　weight:0.10257982556476046
+keywords:发展　　　　　　weight:0.09797679949439708
+keywords:合作　　　　　　weight:0.09544528460585194
+keywords:主席　　　　　　weight:0.08290207398536473
+keywords:中国　　　　　　weight:0.07108406267905129
+keywords:表示　　　　　　weight:0.06937764016801462
+keywords:国家　　　　　　weight:0.059825310032978744
+keywords:推动　　　　　　weight:0.0576017943050061
+keywords:北京　　　　　　weight:0.05558687280651779
+keywords:愿同　　　　　　weight:0.04934638094985113
+there are 137 articles in total
+
+
+2016-01-01
+
+
+keywords:发展　　　　　　weight:0.09490540540123472
+keywords:合作　　　　　　weight:0.09320073609542043
+keywords:人民　　　　　　weight:0.08811985982778245
+keywords:主席　　　　　　weight:0.07813181571708791
+keywords:国家　　　　　　weight:0.07335055448027657
+keywords:中国　　　　　　weight:0.0708330991631152
+keywords:表示　　　　　　weight:0.06885212678806643
+keywords:北京　　　　　　weight:0.05330716305180886
+keywords:推动　　　　　　weight:0.04476662476278677
+keywords:遇难者　　　　　weight:0.044192362130546975
+there are 154 articles in total
+
+
+2017-01-01
+
+
+keywords:发展　　　　　　weight:0.10632099988429188
+keywords:合作　　　　　　weight:0.08618626894442769
+keywords:中国　　　　　　weight:0.08436005098176752
+keywords:主席　　　　　　weight:0.06766228260596197
+keywords:国家　　　　　　weight:0.0627645750455976
+keywords:人民　　　　　　weight:0.05831012462433824
+keywords:国际　　　　　　weight:0.054469607917881226
+keywords:推动　　　　　　weight:0.04872628366134415
+keywords:北京　　　　　　weight:0.04546738854504309
+keywords:表示　　　　　　weight:0.04105285374240539
+there are 173 articles in total
+
+
+2018-01-01
+
+
+keywords:合作　　　　　　weight:0.10523389276904277
+keywords:发展　　　　　　weight:0.10056735516883189
+keywords:主席　　　　　　weight:0.07019118447762179
+keywords:愿同　　　　　　weight:0.06747396658068812
+keywords:中国　　　　　　weight:0.06287838153535918
+keywords:贺电　　　　　　weight:0.06232973643508376
+keywords:推动　　　　　　weight:0.06216172322609745
+keywords:人民　　　　　　weight:0.05880438773118255
+keywords:国家　　　　　　weight:0.05870523106750349
+keywords:北京　　　　　　weight:0.04910393001001309
+there are 200 articles in total
+
+
+2019-01-01
+
+
+keywords:发展　　　　　　weight:0.10222078058319362
+keywords:合作　　　　　　weight:0.0975778401990996
+keywords:主席　　　　　　weight:0.08632362246221749
+keywords:中国　　　　　　weight:0.0849308323563322
+keywords:国家　　　　　　weight:0.06836528931857823
+keywords:贺电　　　　　　weight:0.068143041041387
+keywords:北京　　　　　　weight:0.059677548450137785
+keywords:推动　　　　　　weight:0.05696593223355734
+keywords:人民　　　　　　weight:0.05582923172034055
+keywords:愿同　　　　　　weight:0.05441405326763769
+there are 245 articles in total
+
+
+2020-01-01
+
+
+keywords:疫情　　　　　　weight:0.35096617261944196
+keywords:防控　　　　　　weight:0.12844267325436967
+keywords:新冠　　　　　　weight:0.11530038532469244
+keywords:合作　　　　　　weight:0.11007527034616574
+keywords:人民　　　　　　weight:0.10945763428013532
+keywords:肺炎　　　　　　weight:0.09039508304055113
+keywords:抗击　　　　　　weight:0.08996093516314291
+keywords:中国　　　　　　weight:0.08729504588046255
+keywords:抗疫　　　　　　weight:0.08118088354493652
+keywords:愿同　　　　　　weight:0.07706301264048322
+there are 152 articles in total
+
+
+2021-01-01
+
+
+there are 1264 articles in total in this type

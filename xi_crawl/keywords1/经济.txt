@@ -1,0 +1,144 @@
+these are the keywords in type:"经济"
+
+
+there are 0 articles in total
+
+
+2012-01-01
+
+
+there are 0 articles in total
+
+
+2013-01-01
+
+
+keywords:发展　　　　　　weight:0.14509511013657647
+keywords:人民　　　　　　weight:0.14094908443742132
+keywords:中国　　　　　　weight:0.10489473941905854
+keywords:国家　　　　　　weight:0.08614984555176144
+keywords:社会主义　　　　weight:0.07741769222170072
+keywords:合作　　　　　　weight:0.07453801247083656
+keywords:社会　　　　　　weight:0.056397904996116785
+keywords:世界　　　　　　weight:0.05124792924812949
+keywords:金砖　　　　　　weight:0.049432213117752616
+keywords:建设　　　　　　weight:0.04814828471832966
+there are 11 articles in total
+
+
+2014-01-01
+
+
+keywords:创新　　　　　　weight:0.1327865993185244
+keywords:科技　　　　　　weight:0.13257812862387636
+keywords:发展　　　　　　weight:0.11976288025402193
+keywords:人民　　　　　　weight:0.08102299537901098
+keywords:社会　　　　　　weight:0.07877923437091924
+keywords:工程　　　　　　weight:0.07619348098120639
+keywords:院士　　　　　　weight:0.06503522592580259
+keywords:改革　　　　　　weight:0.0634955919352622
+keywords:中国　　　　　　weight:0.05191417329067996
+keywords:国家　　　　　　weight:0.05025484739901894
+there are 4 articles in total
+
+
+2015-01-01
+
+
+keywords:发展　　　　　　weight:0.17551371812411684
+keywords:经济　　　　　　weight:0.09522767419362187
+keywords:小康社会　　　　weight:0.06322672025293481
+keywords:全面　　　　　　weight:0.060089025371578314
+keywords:创新　　　　　　weight:0.05279547034828239
+keywords:国家　　　　　　weight:0.04652938919742494
+keywords:增长　　　　　　weight:0.040174152229916146
+keywords:脱贫　　　　　　weight:0.03784361458919394
+keywords:金砖　　　　　　weight:0.036959275667771165
+keywords:坚持　　　　　　weight:0.03617398638764674
+there are 6 articles in total
+
+
+2016-01-01
+
+
+keywords:发展　　　　　　weight:0.15898142583220767
+keywords:经济　　　　　　weight:0.10649926302479458
+keywords:合作　　　　　　weight:0.07959878193596388
+keywords:世界　　　　　　weight:0.05816799885522121
+keywords:创新　　　　　　weight:0.056370609106862306
+keywords:全球　　　　　　weight:0.0475819407468781
+keywords:推动　　　　　　weight:0.04566607261825395
+keywords:增长　　　　　　weight:0.04454278359832957
+keywords:中国　　　　　　weight:0.037926929595853275
+keywords:建设　　　　　　weight:0.03770301698720542
+there are 10 articles in total
+
+
+2017-01-01
+
+
+keywords:发展　　　　　　weight:0.11263219881004179
+keywords:建设　　　　　　weight:0.08308567615572728
+keywords:人民　　　　　　weight:0.07359516749819527
+keywords:社会主义　　　　weight:0.06467143335081581
+keywords:中国　　　　　　weight:0.06465459050902168
+keywords:坚持　　　　　　weight:0.062476697542098565
+keywords:经济　　　　　　weight:0.06116192820368508
+keywords:合作　　　　　　weight:0.05518133290818002
+keywords:推进　　　　　　weight:0.04528350825276115
+keywords:全面　　　　　　weight:0.04215130486835246
+there are 9 articles in total
+
+
+2018-01-01
+
+
+keywords:发展　　　　　　weight:0.13015415659659293
+keywords:中国　　　　　　weight:0.07985239343848331
+keywords:人民　　　　　　weight:0.07979722292715964
+keywords:坚持　　　　　　weight:0.06470402313794615
+keywords:社会主义　　　　weight:0.0630371787094381
+keywords:经济　　　　　　weight:0.062360329185223246
+keywords:开放　　　　　　weight:0.049382356682732526
+keywords:建设　　　　　　weight:0.04589211849246325
+keywords:推动　　　　　　weight:0.04150809336834387
+keywords:海南　　　　　　weight:0.04115314931677703
+there are 11 articles in total
+
+
+2019-01-01
+
+
+keywords:发展　　　　　　weight:0.165200579449222
+keywords:经济带　　　　　weight:0.08302742595555006
+keywords:长江　　　　　　weight:0.06794180573197225
+keywords:生态　　　　　　weight:0.05870289523718533
+keywords:推动　　　　　　weight:0.046218288071703424
+keywords:经济　　　　　　weight:0.04604988856051536
+keywords:世界　　　　　　weight:0.04490893714845268
+keywords:协调　　　　　　weight:0.03781174991632805
+keywords:共享　　　　　　weight:0.03596638323820614
+keywords:共建　　　　　　weight:0.03593643074343533
+there are 8 articles in total
+
+
+2020-01-01
+
+
+keywords:脱贫　　　　　　weight:0.521363784426962
+keywords:扶贫　　　　　　weight:0.2795019242314548
+keywords:攻坚　　　　　　weight:0.23470163631419458
+keywords:贫困人口　　　　weight:0.08736142963609454
+keywords:精准　　　　　　weight:0.0824148373153396
+keywords:贫困地区　　　　weight:0.07808654199921981
+keywords:群众　　　　　　weight:0.06082095557687012
+keywords:贫困县　　　　　weight:0.053351631280312076
+keywords:减贫　　　　　　weight:0.0521203723164525
+keywords:帮扶　　　　　　weight:0.05141378501107388
+there are 3 articles in total
+
+
+2021-01-01
+
+
+there are 62 articles in total in this type

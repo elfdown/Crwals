@@ -1,0 +1,154 @@
+these are the keywords in type:"政治"
+
+
+there are 0 articles in total
+
+
+2012-01-01
+
+
+keywords:社会主义　　　　weight:0.2689059793413249
+keywords:特色　　　　　　weight:0.19903641535578637
+keywords:党章　　　　　　weight:0.17355038924041016
+keywords:宪法　　　　　　weight:0.15999966760503984
+keywords:人民　　　　　　weight:0.1245082358001564
+keywords:建设　　　　　　weight:0.11161435895115374
+keywords:中国　　　　　　weight:0.10630013623857776
+keywords:坚持　　　　　　weight:0.08063884050356153
+keywords:发展　　　　　　weight:0.0801725895052936
+keywords:制度　　　　　　weight:0.07775539939542933
+there are 3 articles in total
+
+
+2013-01-01
+
+
+keywords:发展　　　　　　weight:0.10832009298569786
+keywords:改革　　　　　　weight:0.09164417515898023
+keywords:人民　　　　　　weight:0.08622595677359238
+keywords:社会主义　　　　weight:0.06615140849410857
+keywords:非洲　　　　　　weight:0.06039748641424604
+keywords:全面　　　　　　weight:0.05995597812004489
+keywords:社会　　　　　　weight:0.05919694027403283
+keywords:中非　　　　　　weight:0.05565962956276196
+keywords:问题　　　　　　weight:0.055597048296815825
+keywords:学习　　　　　　weight:0.05429471563093982
+there are 7 articles in total
+
+
+2014-01-01
+
+
+keywords:人民　　　　　　weight:0.13917664956152442
+keywords:社会主义　　　　weight:0.09322037274833776
+keywords:中国　　　　　　weight:0.08325863832388176
+keywords:同志　　　　　　weight:0.06898024004602514
+keywords:制度　　　　　　weight:0.0652736222683444
+keywords:发展　　　　　　weight:0.062451260582516925
+keywords:坚持　　　　　　weight:0.05763964694601306
+keywords:法治　　　　　　weight:0.054679426709059474
+keywords:国家　　　　　　weight:0.04836128375435203
+keywords:依法治国　　　　weight:0.04611108834079425
+there are 13 articles in total
+
+
+2015-01-01
+
+
+keywords:同志　　　　　　weight:0.22708175489925977
+keywords:人民　　　　　　weight:0.09181112267060275
+keywords:社会主义　　　　weight:0.08985384087768769
+keywords:建设　　　　　　weight:0.07792092347342264
+keywords:坚持　　　　　　weight:0.06763517054572789
+keywords:事业　　　　　　weight:0.06722669339376101
+keywords:学习　　　　　　weight:0.06312679391054282
+keywords:工作　　　　　　weight:0.06073750900118083
+keywords:共产主义　　　　weight:0.058435253556492775
+keywords:群众　　　　　　weight:0.05308458927564329
+there are 7 articles in total
+
+
+2016-01-01
+
+
+keywords:发展　　　　　　weight:0.10140977139816347
+keywords:人民　　　　　　weight:0.08008596929437393
+keywords:同志　　　　　　weight:0.07558656215495212
+keywords:社会主义　　　　weight:0.07026368965708628
+keywords:坚持　　　　　　weight:0.06591396813871785
+keywords:中国　　　　　　weight:0.05515900831845955
+keywords:建设　　　　　　weight:0.05111075871043947
+keywords:长征　　　　　　weight:0.04406679218991873
+keywords:政治　　　　　　weight:0.04280091068171437
+keywords:特色　　　　　　weight:0.03966140590101144
+there are 13 articles in total
+
+
+2017-01-01
+
+
+keywords:社会主义　　　　weight:0.08697922141175349
+keywords:建设　　　　　　weight:0.07215228226186506
+keywords:发展　　　　　　weight:0.07158054974900652
+keywords:全面　　　　　　weight:0.07130367329629002
+keywords:人民　　　　　　weight:0.07109910840827283
+keywords:坚持　　　　　　weight:0.06928827213560483
+keywords:政治　　　　　　weight:0.0537281667648358
+keywords:特色　　　　　　weight:0.05353800598479701
+keywords:中国　　　　　　weight:0.048448876168661496
+keywords:制度　　　　　　weight:0.04546204517926216
+there are 5 articles in total
+
+
+2018-01-01
+
+
+keywords:人民　　　　　　weight:0.1340081008298125
+keywords:社会主义　　　　weight:0.09875846372617388
+keywords:马克思主义　　　weight:0.09774304745710832
+keywords:发展　　　　　　weight:0.08975057448803347
+keywords:中国　　　　　　weight:0.07975275325154192
+keywords:时代　　　　　　weight:0.06741052114586084
+keywords:澳门　　　　　　weight:0.06651323673376569
+keywords:全面　　　　　　weight:0.06623681512750658
+keywords:特色　　　　　　weight:0.05987661385282504
+keywords:建设　　　　　　weight:0.058617861844949645
+there are 5 articles in total
+
+
+2019-01-01
+
+
+keywords:制度　　　　　　weight:0.10521733132878545
+keywords:社会主义　　　　weight:0.10003496176004545
+keywords:人民　　　　　　weight:0.08682271833883333
+keywords:坚持　　　　　　weight:0.07083209687141273
+keywords:中国　　　　　　weight:0.06201420558127758
+keywords:国家　　　　　　weight:0.05794584537734787
+keywords:特色　　　　　　weight:0.05596313741768
+keywords:政治　　　　　　weight:0.05447106676284849
+keywords:法治　　　　　　weight:0.05003468369203879
+keywords:发展　　　　　　weight:0.045717492129869086
+there are 16 articles in total
+
+
+2020-01-01
+
+
+keywords:脱贫　　　　　　weight:0.319922471886416
+keywords:扶贫　　　　　　weight:0.16901198637445264
+keywords:攻坚　　　　　　weight:0.14329958606850007
+keywords:人民　　　　　　weight:0.07011353139059387
+keywords:贫困人口　　　　weight:0.05282657282560011
+keywords:精准　　　　　　weight:0.05239108097124323
+keywords:群众　　　　　　weight:0.05015156812265852
+keywords:中国　　　　　　weight:0.04746596886257527
+keywords:贫困地区　　　　weight:0.04721814208860829
+keywords:使命　　　　　　weight:0.046421937722647424
+there are 5 articles in total
+
+
+2021-01-01
+
+
+there are 74 articles in total in this type

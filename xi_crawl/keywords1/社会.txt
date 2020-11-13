@@ -1,0 +1,144 @@
+these are the keywords in type:"社会"
+
+
+there are 0 articles in total
+
+
+2012-01-01
+
+
+there are 0 articles in total
+
+
+2013-01-01
+
+
+keywords:人民　　　　　　weight:0.11078332674864581
+keywords:社会主义　　　　weight:0.10437135309331458
+keywords:发展　　　　　　weight:0.09263183631059399
+keywords:改革　　　　　　weight:0.09125695075718407
+keywords:社会　　　　　　weight:0.0866957150097849
+keywords:中国　　　　　　weight:0.07621951374382303
+keywords:实现　　　　　　weight:0.07544957180516744
+keywords:公平正义　　　　weight:0.06368802863436812
+keywords:坚持　　　　　　weight:0.055431050974355904
+keywords:国家　　　　　　weight:0.05476043558077731
+there are 7 articles in total
+
+
+2014-01-01
+
+
+keywords:人民　　　　　　weight:0.11575594578207417
+keywords:发展　　　　　　weight:0.08940032737568851
+keywords:中国　　　　　　weight:0.0879521398751048
+keywords:同志　　　　　　weight:0.06552273630906341
+keywords:社会主义　　　　weight:0.05918040017212788
+keywords:社会　　　　　　weight:0.0509225334994342
+keywords:澳门　　　　　　weight:0.04968250092502056
+keywords:创新　　　　　　weight:0.0495021908684001
+keywords:科技　　　　　　weight:0.044488696586770356
+keywords:国家　　　　　　weight:0.04351771320736534
+there are 23 articles in total
+
+
+2015-01-01
+
+
+keywords:发展　　　　　　weight:0.107877018301489
+keywords:人民　　　　　　weight:0.0954902993574309
+keywords:劳动　　　　　　weight:0.09225767481710659
+keywords:减贫　　　　　　weight:0.08091213199932318
+keywords:工人阶级　　　　weight:0.07717094073739424
+keywords:中国　　　　　　weight:0.07085945205662154
+keywords:教育　　　　　　weight:0.06405406179469826
+keywords:事业　　　　　　weight:0.06274933747446418
+keywords:全面　　　　　　weight:0.06185479766933164
+keywords:扶贫　　　　　　weight:0.058174265191615906
+there are 8 articles in total
+
+
+2016-01-01
+
+
+keywords:互联网　　　　　weight:0.10187362847488947
+keywords:发展　　　　　　weight:0.0715942705809831
+keywords:核心技术　　　　weight:0.05959430799356047
+keywords:家庭　　　　　　weight:0.05708335916785956
+keywords:人民　　　　　　weight:0.05690331605041873
+keywords:国家　　　　　　weight:0.05514268030805721
+keywords:人才　　　　　　weight:0.05138199684436931
+keywords:社会　　　　　　weight:0.050207908724189856
+keywords:创新　　　　　　weight:0.04927025302501951
+keywords:网信　　　　　　weight:0.046637584536670995
+there are 6 articles in total
+
+
+2017-01-01
+
+
+keywords:发展　　　　　　weight:0.07790201186686715
+keywords:人民　　　　　　weight:0.07633982243236062
+keywords:脱贫　　　　　　weight:0.07630526519568653
+keywords:社会主义　　　　weight:0.06293704797443453
+keywords:坚持　　　　　　weight:0.060757586433567386
+keywords:建设　　　　　　weight:0.05759137081238101
+keywords:中国　　　　　　weight:0.0572866673423396
+keywords:全面　　　　　　weight:0.04550822700680791
+keywords:推进　　　　　　weight:0.04423154294985154
+keywords:实现　　　　　　weight:0.0435044676892093
+there are 15 articles in total
+
+
+2018-01-01
+
+
+keywords:人民　　　　　　weight:0.13524540269748725
+keywords:海南　　　　　　weight:0.12858813418706536
+keywords:发展　　　　　　weight:0.09364448173382477
+keywords:中国　　　　　　weight:0.09263011836789985
+keywords:经济特区　　　　weight:0.08352314898942977
+keywords:社会主义　　　　weight:0.07238555854155077
+keywords:建设　　　　　　weight:0.0683238015435327
+keywords:特色　　　　　　weight:0.05161377946668521
+keywords:坚持　　　　　　weight:0.0512178614788549
+keywords:全面　　　　　　weight:0.048235756950011595
+there are 5 articles in total
+
+
+2019-01-01
+
+
+keywords:脱贫　　　　　　weight:0.2591723103870221
+keywords:攻坚　　　　　　weight:0.09625575836917609
+keywords:志愿　　　　　　weight:0.08283629811363488
+keywords:扶贫　　　　　　weight:0.07141216629453151
+keywords:贫困人口　　　　weight:0.0692633261934572
+keywords:中国　　　　　　weight:0.06520884623931072
+keywords:服务　　　　　　weight:0.05609689641511308
+keywords:问题　　　　　　weight:0.05549345875071621
+keywords:时代　　　　　　weight:0.05189056547377491
+keywords:摘帽　　　　　　weight:0.05109974105666397
+there are 6 articles in total
+
+
+2020-01-01
+
+
+keywords:脱贫　　　　　　weight:0.26893510566175716
+keywords:疫情　　　　　　weight:0.18836967796387563
+keywords:防控　　　　　　weight:0.15598384291849415
+keywords:扶贫　　　　　　weight:0.14053648867011373
+keywords:攻坚　　　　　　weight:0.11839234647786133
+keywords:工作　　　　　　weight:0.07169016119562546
+keywords:精准　　　　　　weight:0.05912078905745597
+keywords:群众　　　　　　weight:0.048616603889214974
+keywords:加强　　　　　　weight:0.04717595022911226
+keywords:问题　　　　　　weight:0.0348952038715774
+there are 4 articles in total
+
+
+2021-01-01
+
+
+there are 74 articles in total in this type

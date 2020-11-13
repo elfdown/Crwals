@@ -1,0 +1,8 @@
+a="中文".encode("utf-8")
+b=a.decode("utf-8")
+c="*".encode("utf-8")
+d="中文".encode("gbk")
+print(a)
+print(c)
+print(d)
+print(b)

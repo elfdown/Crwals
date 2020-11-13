@@ -1,0 +1,144 @@
+these are the keywords in type:"出访"
+
+
+there are 0 articles in total
+
+
+2012-01-01
+
+
+there are 0 articles in total
+
+
+2013-01-01
+
+
+keywords:合作　　　　　　weight:0.1491450549799742
+keywords:发展　　　　　　weight:0.09612630153634738
+keywords:中国　　　　　　weight:0.09567764415544161
+keywords:主席　　　　　　weight:0.09382887565063662
+keywords:国家　　　　　　weight:0.08045264148437671
+keywords:总统　　　　　　weight:0.06637030490497628
+keywords:关系　　　　　　weight:0.06467712696280205
+keywords:双方　　　　　　weight:0.05418545188584746
+keywords:非洲　　　　　　weight:0.05312923956119111
+keywords:领导人　　　　　weight:0.0479074247965713
+there are 321 articles in total
+
+
+2014-01-01
+
+
+keywords:合作　　　　　　weight:0.1323504787631022
+keywords:主席　　　　　　weight:0.11764391818223609
+keywords:中国　　　　　　weight:0.09780532219742487
+keywords:发展　　　　　　weight:0.0808258520270249
+keywords:国家　　　　　　weight:0.07590748127515215
+keywords:关系　　　　　　weight:0.056637829301016365
+keywords:总统　　　　　　weight:0.04863982748786927
+keywords:领导人　　　　　weight:0.046861993830230424
+keywords:金砖　　　　　　weight:0.043464980094041115
+keywords:双方　　　　　　weight:0.041797769846234116
+there are 416 articles in total
+
+
+2015-01-01
+
+
+keywords:合作　　　　　　weight:0.15198827666991246
+keywords:发展　　　　　　weight:0.10161915632258772
+keywords:主席　　　　　　weight:0.08575266647560452
+keywords:中国　　　　　　weight:0.07833841399235411
+keywords:国家　　　　　　weight:0.0672476289779749
+keywords:总统　　　　　　weight:0.04471656563399327
+keywords:领导人　　　　　weight:0.044576295049665926
+keywords:中非　　　　　　weight:0.04430680779465324
+keywords:人民　　　　　　weight:0.04028305928243942
+keywords:国际　　　　　　weight:0.03866000960146721
+there are 371 articles in total
+
+
+2016-01-01
+
+
+keywords:合作　　　　　　weight:0.18794549675806618
+keywords:发展　　　　　　weight:0.10087864772472463
+keywords:主席　　　　　　weight:0.07947905342869344
+keywords:中国　　　　　　weight:0.07352688246763205
+keywords:国家　　　　　　weight:0.0720770839630023
+keywords:关系　　　　　　weight:0.05889364388394958
+keywords:双方　　　　　　weight:0.048878004132186945
+keywords:总统　　　　　　weight:0.04868576335181301
+keywords:领域　　　　　　weight:0.04649485751166336
+keywords:推动　　　　　　weight:0.044371041258239666
+there are 194 articles in total
+
+
+2017-01-01
+
+
+keywords:合作　　　　　　weight:0.16402458316740517
+keywords:主席　　　　　　weight:0.10781242938533088
+keywords:发展　　　　　　weight:0.08899310493086432
+keywords:中国　　　　　　weight:0.06632172928318862
+keywords:国家　　　　　　weight:0.055548414203122516
+keywords:世界　　　　　　weight:0.05494186933794515
+keywords:老挝　　　　　　weight:0.05347248159192852
+keywords:经济　　　　　　weight:0.05267773876235601
+keywords:国际　　　　　　weight:0.046972240867725806
+keywords:关系　　　　　　weight:0.04404746173132806
+there are 140 articles in total
+
+
+2018-01-01
+
+
+keywords:合作　　　　　　weight:0.14911992754558798
+keywords:主席　　　　　　weight:0.09497743517221406
+keywords:发展　　　　　　weight:0.09377218492957377
+keywords:金砖　　　　　　weight:0.08462016414587031
+keywords:中国　　　　　　weight:0.07997411858880442
+keywords:国家　　　　　　weight:0.07059363801556227
+keywords:巴新　　　　　　weight:0.07058767731779263
+keywords:领导人　　　　　weight:0.055506392578089175
+keywords:总统　　　　　　weight:0.05341704842037757
+keywords:关系　　　　　　weight:0.05043598987466639
+there are 166 articles in total
+
+
+2019-01-01
+
+
+keywords:合作　　　　　　weight:0.14212357207324627
+keywords:主席　　　　　　weight:0.09235792749614907
+keywords:发展　　　　　　weight:0.07751626178221019
+keywords:国家　　　　　　weight:0.06181721675657477
+keywords:总统　　　　　　weight:0.06100706075218759
+keywords:中国　　　　　　weight:0.05411432800373549
+keywords:国际　　　　　　weight:0.04681035192229203
+keywords:关系　　　　　　weight:0.04608473413448268
+keywords:维护　　　　　　weight:0.04488063533857893
+keywords:双方　　　　　　weight:0.0408079147888098
+there are 232 articles in total
+
+
+2020-01-01
+
+
+keywords:缅甸　　　　　　weight:0.336369916393059
+keywords:胞波　　　　　　weight:0.14573430860678094
+keywords:缅方　　　　　　weight:0.14118011146281903
+keywords:主席　　　　　　weight:0.13759286268595236
+keywords:缅中　　　　　　weight:0.10246943573914284
+keywords:合作　　　　　　weight:0.09969984338616192
+keywords:情谊　　　　　　weight:0.08784571863424
+keywords:中国　　　　　　weight:0.07611549155030857
+keywords:共同体　　　　　weight:0.07396004539812952
+keywords:建交　　　　　　weight:0.07182185772094286
+there are 23 articles in total
+
+
+2021-01-01
+
+
+there are 1863 articles in total in this type

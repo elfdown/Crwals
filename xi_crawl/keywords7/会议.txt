@@ -1,0 +1,154 @@
+these are the keywords in type:"会议"
+
+
+there are 0 articles in total
+
+
+2012-01-01
+
+
+keywords:发展　　　　　　weight:0.08924450840316638
+keywords:经济　　　　　　weight:0.08687446414743964
+keywords:工作　　　　　　weight:0.08420663487710627
+keywords:建设　　　　　　weight:0.06454237255352274
+keywords:军队　　　　　　weight:0.05991540828841518
+keywords:坚持　　　　　　weight:0.05920572462000657
+keywords:会议　　　　　　weight:0.05772203792772869
+keywords:宪法　　　　　　weight:0.045667797205846614
+keywords:全面　　　　　　weight:0.0452582358024224
+keywords:推进　　　　　　weight:0.04428533384290359
+there are 12 articles in total
+
+
+2013-01-01
+
+
+keywords:发展　　　　　　weight:0.07770626823272224
+keywords:工作　　　　　　weight:0.0721890711563883
+keywords:建设　　　　　　weight:0.0558763504755617
+keywords:坚持　　　　　　weight:0.05542663300758307
+keywords:会议　　　　　　weight:0.05436856007807281
+keywords:改革　　　　　　weight:0.04917408552647809
+keywords:社会主义　　　　weight:0.04798261514148304
+keywords:中国　　　　　　weight:0.046492664180014735
+keywords:全面　　　　　　weight:0.04143789294503926
+keywords:经济　　　　　　weight:0.03991336162828855
+there are 122 articles in total
+
+
+2014-01-01
+
+
+keywords:发展　　　　　　weight:0.07897260935443508
+keywords:工作　　　　　　weight:0.06378858453429982
+keywords:改革　　　　　　weight:0.05821305045358454
+keywords:坚持　　　　　　weight:0.05527194166256371
+keywords:建设　　　　　　weight:0.051387545561214804
+keywords:推进　　　　　　weight:0.04693327209822825
+keywords:会议　　　　　　weight:0.04508074051529843
+keywords:全面　　　　　　weight:0.04464405269194433
+keywords:总书记　　　　　weight:0.04409239017326987
+keywords:人民　　　　　　weight:0.04105543544753292
+there are 169 articles in total
+
+
+2015-01-01
+
+
+keywords:发展　　　　　　weight:0.08494754324249544
+keywords:改革　　　　　　weight:0.06892257066910962
+keywords:工作　　　　　　weight:0.067684109059152
+keywords:全面　　　　　　weight:0.06295609724257993
+keywords:坚持　　　　　　weight:0.056952962699026055
+keywords:会议　　　　　　weight:0.05116647209844523
+keywords:总书记　　　　　weight:0.04890181408949363
+keywords:推进　　　　　　weight:0.04839531573774691
+keywords:建设　　　　　　weight:0.047663143573544633
+keywords:强调　　　　　　weight:0.03884680259234522
+there are 172 articles in total
+
+
+2016-01-01
+
+
+keywords:发展　　　　　　weight:0.08184915120851971
+keywords:改革　　　　　　weight:0.07474261883168845
+keywords:坚持　　　　　　weight:0.059249032687182304
+keywords:工作　　　　　　weight:0.05279910571429044
+keywords:推进　　　　　　weight:0.049587430337815874
+keywords:建设　　　　　　weight:0.044662612315712044
+keywords:全面　　　　　　weight:0.04349519659110257
+keywords:会议　　　　　　weight:0.040680942303725695
+keywords:加强　　　　　　weight:0.04042859118984344
+keywords:创新　　　　　　weight:0.03999186813403705
+there are 175 articles in total
+
+
+2017-01-01
+
+
+keywords:发展　　　　　　weight:0.08044151125310064
+keywords:坚持　　　　　　weight:0.06795097023042582
+keywords:改革　　　　　　weight:0.06230233806679368
+keywords:全面　　　　　　weight:0.05950307373682556
+keywords:推进　　　　　　weight:0.056595067831708694
+keywords:工作　　　　　　weight:0.05452917837020054
+keywords:社会主义　　　　weight:0.054156490366664714
+keywords:建设　　　　　　weight:0.05363696724047032
+keywords:会议　　　　　　weight:0.05147275343197548
+keywords:特色　　　　　　weight:0.03852180783789907
+there are 160 articles in total
+
+
+2018-01-01
+
+
+keywords:坚持　　　　　　weight:0.06671238186956911
+keywords:发展　　　　　　weight:0.0645758826379278
+keywords:工作　　　　　　weight:0.057106973421580214
+keywords:全面　　　　　　weight:0.05565547566290279
+keywords:建设　　　　　　weight:0.05326302926918379
+keywords:会议　　　　　　weight:0.05216903367110971
+keywords:社会主义　　　　weight:0.05182295864374343
+keywords:改革　　　　　　weight:0.04875027680120108
+keywords:脱贫　　　　　　weight:0.04250033790796238
+keywords:推进　　　　　　weight:0.042364500573065074
+there are 196 articles in total
+
+
+2019-01-01
+
+
+keywords:发展　　　　　　weight:0.072046381810164
+keywords:坚持　　　　　　weight:0.07164643883365632
+keywords:工作　　　　　　weight:0.06707106572679036
+keywords:制度　　　　　　weight:0.0508927924591218
+keywords:会议　　　　　　weight:0.04875886784430101
+keywords:改革　　　　　　weight:0.04789454938819094
+keywords:建设　　　　　　weight:0.046733459031986384
+keywords:全面　　　　　　weight:0.04666005210285332
+keywords:社会主义　　　　weight:0.046439128447376424
+keywords:推进　　　　　　weight:0.04440674064069789
+there are 172 articles in total
+
+
+2020-01-01
+
+
+keywords:疫情　　　　　　weight:0.22782070898847315
+keywords:防控　　　　　　weight:0.19643096829091908
+keywords:工作　　　　　　weight:0.08499609467130245
+keywords:脱贫　　　　　　weight:0.0641776439979983
+keywords:加强　　　　　　weight:0.05623609786698814
+keywords:会议　　　　　　weight:0.05236271223754456
+keywords:新冠　　　　　　weight:0.04751320376237968
+keywords:全面　　　　　　weight:0.04610145721322735
+keywords:发展　　　　　　weight:0.04425445778557039
+keywords:攻坚　　　　　　weight:0.04152306856198307
+there are 122 articles in total
+
+
+2021-01-01
+
+
+there are 1300 articles in total in this type

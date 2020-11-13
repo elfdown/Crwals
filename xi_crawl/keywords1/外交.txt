@@ -1,0 +1,134 @@
+these are the keywords in type:"外交"
+
+
+there are 0 articles in total
+
+
+2012-01-01
+
+
+there are 0 articles in total
+
+
+2013-01-01
+
+
+keywords:发展　　　　　　weight:0.15170528520807286
+keywords:合作　　　　　　weight:0.13609899199562134
+keywords:中国　　　　　　weight:0.1167648012035424
+keywords:人民　　　　　　weight:0.08698446631338301
+keywords:经济　　　　　　weight:0.06979182273028084
+keywords:世界　　　　　　weight:0.05966817237996688
+keywords:国家　　　　　　weight:0.05244494752710964
+keywords:中非　　　　　　weight:0.05030014880171738
+keywords:非洲　　　　　　weight:0.04877609970349824
+keywords:关系　　　　　　weight:0.04705156404394949
+there are 17 articles in total
+
+
+2014-01-01
+
+
+keywords:合作　　　　　　weight:0.13123456485185925
+keywords:中国　　　　　　weight:0.11889461881240036
+keywords:发展　　　　　　weight:0.1151913190537208
+keywords:人民　　　　　　weight:0.0670595573695452
+keywords:国家　　　　　　weight:0.05889810143394435
+keywords:世界　　　　　　weight:0.05386608378102212
+keywords:关系　　　　　　weight:0.044716266432043475
+keywords:国际　　　　　　weight:0.04189433699396554
+keywords:亚洲　　　　　　weight:0.040387543512457415
+keywords:双方　　　　　　weight:0.03929241181193594
+there are 39 articles in total
+
+
+2015-01-01
+
+
+keywords:合作　　　　　　weight:0.14226888705605265
+keywords:发展　　　　　　weight:0.12393757898113394
+keywords:中国　　　　　　weight:0.10686161480290986
+keywords:人民　　　　　　weight:0.06780510522333488
+keywords:中非　　　　　　weight:0.06258145154250674
+keywords:国家　　　　　　weight:0.056451103891053074
+keywords:世界　　　　　　weight:0.04691322655519587
+keywords:国际　　　　　　weight:0.042207221711299064
+keywords:经济　　　　　　weight:0.04004767607514406
+keywords:非洲　　　　　　weight:0.037356918815342886
+there are 35 articles in total
+
+
+2016-01-01
+
+
+keywords:合作　　　　　　weight:0.17601300204846967
+keywords:发展　　　　　　weight:0.1256553760633474
+keywords:中国　　　　　　weight:0.09406679764254257
+keywords:人民　　　　　　weight:0.05875791591843618
+keywords:国家　　　　　　weight:0.05851328218775724
+keywords:两国人民　　　　weight:0.050059757330141175
+keywords:双方　　　　　　weight:0.04526678450501819
+keywords:关系　　　　　　weight:0.04410927199268811
+keywords:经济　　　　　　weight:0.0395339347578402
+keywords:推动　　　　　　weight:0.03900200083029981
+there are 23 articles in total
+
+
+2017-01-01
+
+
+keywords:合作　　　　　　weight:0.12682238793905373
+keywords:发展　　　　　　weight:0.11210588271145114
+keywords:建设　　　　　　weight:0.06281945436035806
+keywords:中国　　　　　　weight:0.06025691125454687
+keywords:人民　　　　　　weight:0.05927849333931243
+keywords:金砖　　　　　　weight:0.05588548626709663
+keywords:经济　　　　　　weight:0.05378690847402498
+keywords:世界　　　　　　weight:0.05293680698400201
+keywords:国家　　　　　　weight:0.051601430611649055
+keywords:国际　　　　　　weight:0.04526434714688202
+there are 26 articles in total
+
+
+2018-01-01
+
+
+keywords:合作　　　　　　weight:0.1668237146008341
+keywords:发展　　　　　　weight:0.11384992298241399
+keywords:中国　　　　　　weight:0.09515792274708851
+keywords:中非　　　　　　weight:0.08374419354229025
+keywords:人民　　　　　　weight:0.08337731552380331
+keywords:非洲　　　　　　weight:0.05620048854227209
+keywords:国家　　　　　　weight:0.05115659069258312
+keywords:世界　　　　　　weight:0.0468425726197591
+keywords:国际　　　　　　weight:0.046130803986985394
+keywords:经济　　　　　　weight:0.04246199925297253
+there are 20 articles in total
+
+
+2019-01-01
+
+
+keywords:合作　　　　　　weight:0.1661950797429377
+keywords:共建　　　　　　weight:0.1390824120525202
+keywords:发展　　　　　　weight:0.09689792442722622
+keywords:一带　　　　　　weight:0.08896739639790602
+keywords:治理　　　　　　weight:0.06025574083691147
+keywords:全球　　　　　　weight:0.05678873487334864
+keywords:世界　　　　　　weight:0.055369771699029506
+keywords:坚持　　　　　　weight:0.05210876060518252
+keywords:国际　　　　　　weight:0.0518208143067825
+keywords:中国　　　　　　weight:0.04896649853832569
+there are 9 articles in total
+
+
+2020-01-01
+
+
+there are 0 articles in total
+
+
+2021-01-01
+
+
+there are 169 articles in total in this type

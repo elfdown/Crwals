@@ -1,0 +1,154 @@
+these are the keywords in type:"总体"
+
+
+there are 0 articles in total
+
+
+2012-01-01
+
+
+keywords:党章　　　　　　weight:0.2948320743812563
+keywords:社会主义　　　　weight:0.25291777939515925
+keywords:特色　　　　　　weight:0.19368521248777554
+keywords:宪法　　　　　　weight:0.1370674604432457
+keywords:建设　　　　　　weight:0.11672731170680485
+keywords:人民　　　　　　weight:0.10797972048206775
+keywords:中国　　　　　　weight:0.10177797050702225
+keywords:制度　　　　　　weight:0.07836586229438827
+keywords:坚持　　　　　　weight:0.07643020880892822
+keywords:发展　　　　　　weight:0.07229655309282103
+there are 4 articles in total
+
+
+2013-01-01
+
+
+keywords:发展　　　　　　weight:0.12081631353253457
+keywords:人民　　　　　　weight:0.1037883516561609
+keywords:中国　　　　　　weight:0.09369931281360479
+keywords:合作　　　　　　weight:0.06303400888135062
+keywords:社会主义　　　　weight:0.05961291549198707
+keywords:国家　　　　　　weight:0.05273760461498956
+keywords:改革　　　　　　weight:0.04455885174421487
+keywords:社会　　　　　　weight:0.04384840786580508
+keywords:实现　　　　　　weight:0.04160238776891854
+keywords:坚持　　　　　　weight:0.04159266882840911
+there are 62 articles in total
+
+
+2014-01-01
+
+
+keywords:人民　　　　　　weight:0.10316471963950108
+keywords:中国　　　　　　weight:0.09719335573734983
+keywords:发展　　　　　　weight:0.09137130559809681
+keywords:合作　　　　　　weight:0.05466764455635843
+keywords:国家　　　　　　weight:0.04926603897846948
+keywords:社会主义　　　　weight:0.04729539906784082
+keywords:坚持　　　　　　weight:0.04158851790638505
+keywords:世界　　　　　　weight:0.03887206865403792
+keywords:社会　　　　　　weight:0.037664173053450926
+keywords:同志　　　　　　weight:0.03555276438338586
+there are 93 articles in total
+
+
+2015-01-01
+
+
+keywords:发展　　　　　　weight:0.11840684835166292
+keywords:合作　　　　　　weight:0.08642611490001058
+keywords:中国　　　　　　weight:0.08111754450432172
+keywords:人民　　　　　　weight:0.0769219170709752
+keywords:国家　　　　　　weight:0.04600539804222825
+keywords:经济　　　　　　weight:0.04217200063520769
+keywords:世界　　　　　　weight:0.04008105784126294
+keywords:坚持　　　　　　weight:0.036108728124653856
+keywords:建设　　　　　　weight:0.03480022655002162
+keywords:全面　　　　　　weight:0.034796073270204474
+there are 69 articles in total
+
+
+2016-01-01
+
+
+keywords:发展　　　　　　weight:0.11139869614097846
+keywords:人民　　　　　　weight:0.059260885418654256
+keywords:中国　　　　　　weight:0.057325896220174095
+keywords:合作　　　　　　weight:0.04765069315645752
+keywords:坚持　　　　　　weight:0.045357038383968123
+keywords:创新　　　　　　weight:0.043239636271002205
+keywords:建设　　　　　　weight:0.040472226216174044
+keywords:社会主义　　　　weight:0.03962564032940478
+keywords:经济　　　　　　weight:0.03919455562440111
+keywords:国家　　　　　　weight:0.03538916420061274
+there are 68 articles in total
+
+
+2017-01-01
+
+
+keywords:发展　　　　　　weight:0.09392497388673801
+keywords:人民　　　　　　weight:0.07808221725309361
+keywords:社会主义　　　　weight:0.07482464757441162
+keywords:建设　　　　　　weight:0.07345936190863261
+keywords:坚持　　　　　　weight:0.06550595987323135
+keywords:中国　　　　　　weight:0.06013715071372159
+keywords:全面　　　　　　weight:0.04935095179434904
+keywords:合作　　　　　　weight:0.04703864124976765
+keywords:推进　　　　　　weight:0.04686071114931225
+keywords:特色　　　　　　weight:0.04403653141360418
+there are 76 articles in total
+
+
+2018-01-01
+
+
+keywords:人民　　　　　　weight:0.1135053049880488
+keywords:发展　　　　　　weight:0.10745286463406044
+keywords:中国　　　　　　weight:0.09074317933459965
+keywords:社会主义　　　　weight:0.06553527430248125
+keywords:合作　　　　　　weight:0.05497611003693288
+keywords:坚持　　　　　　weight:0.05351852961986072
+keywords:建设　　　　　　weight:0.052417940405504605
+keywords:海南　　　　　　weight:0.04608811559018164
+keywords:特色　　　　　　weight:0.04280748082425104
+keywords:全面　　　　　　weight:0.040655903863428565
+there are 51 articles in total
+
+
+2019-01-01
+
+
+keywords:发展　　　　　　weight:0.07573828958605254
+keywords:人民　　　　　　weight:0.058346675922949426
+keywords:中国　　　　　　weight:0.054671821387044066
+keywords:社会主义　　　　weight:0.04910730846122748
+keywords:坚持　　　　　　weight:0.045562440134315395
+keywords:制度　　　　　　weight:0.04407641742130953
+keywords:国家　　　　　　weight:0.04098567886041936
+keywords:生态　　　　　　weight:0.04033817165420643
+keywords:政治　　　　　　weight:0.0384602992399783
+keywords:建设　　　　　　weight:0.03742741365691296
+there are 58 articles in total
+
+
+2020-01-01
+
+
+keywords:脱贫　　　　　　weight:0.3139436745972052
+keywords:扶贫　　　　　　weight:0.1612621466326327
+keywords:攻坚　　　　　　weight:0.13801925993573974
+keywords:疫情　　　　　　weight:0.07859319136816144
+keywords:人民　　　　　　weight:0.05718809325571256
+keywords:精准　　　　　　weight:0.05379606472409104
+keywords:防控　　　　　　weight:0.05088149095757881
+keywords:贫困人口　　　　weight:0.049225862384605704
+keywords:中国　　　　　　weight:0.04847859695628361
+keywords:群众　　　　　　weight:0.046110079415449694
+there are 18 articles in total
+
+
+2021-01-01
+
+
+there are 499 articles in total in this type
